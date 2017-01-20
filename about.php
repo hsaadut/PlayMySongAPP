@@ -32,9 +32,7 @@ require 'corefunc.php';
             <h1 class=center> About The Author</h1>
 			<article>
                 <div>
-                    <?php
-                        include './php/author.php';
-                    ?>
+                    This is just placeholder for now.
                 </div>
             </article>
         </section>
